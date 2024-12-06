@@ -552,7 +552,7 @@ function vc_js_init(){
 
 		if(typeof accordioncontent_init !="function"){
 
-			jQuery.onDemandScript("/qfy-content/themes/qfy-01/js/a-accord.js",function() {
+			jQuery.onDemandScript("js/a-accord.js",function() {
 
 				accordioncontent_init();
 
