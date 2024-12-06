@@ -277,7 +277,7 @@ function vc_js_init(){
 	vc_3d_photo();
 
 	lottieReady(jQuery);
-js/a-accord.js
+
 	shape_ready();
 
 
